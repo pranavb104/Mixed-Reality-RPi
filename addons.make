@@ -1,0 +1,6 @@
+ofxAruco
+ofxCv
+ofxOpenCv
+ofxPoco
+ofxOMXCamera
+ofxOMXPlayer
