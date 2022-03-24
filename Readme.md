@@ -1,8 +1,11 @@
 
 ## About
-A Mixed-Reality device using the small yet powerful RPI Zero 2W。It detect fiducials (aruco-markers) via the RPI dedicated camera and plays 720p resolution videos. All of this running simulataneously on the PI Zero2W.
 
-I've compiled this project in Openframeworks (OFv0.10.0). It was difficult to link the libraries, especially to compile ofxOMXPlayer and ofxOMXCamera. So, ill provide a detailed guide for the right environment and setup instructions. This project greatly relies on the work done by (jvcleave)[https://github.com/jvcleave/ofxOMXCamera] for building the OMX wrapper inside openframeworks. 
+![mrpi](./mrp2.jpg)
+
+A Mixed-Reality device using the small yet powerful RPI Zero 2W。It detect fiducials (aruco-markers) via the RPI dedicated camera and plays 720p resolution videos when detected. All of this running simulataneously on the PI Zero2W.This device gives a unique way to interact with static content as opposed to viewing it from screens which can be bulky and expensive to setup. This experience could also make way for interactive games and other kind of explorative projects.
+
+I've compiled this project in Openframeworks (OFv0.10.0). It was difficult to link the libraries, especially to compile ofxOMXPlayer and ofxOMXCamera. So, ill provide a detailed guide for the right environment and setup instructions. This project greatly relies on the work done by [jvcleave](https://github.com/jvcleave/ofxOMXCamera) for building the OMX wrapper inside openframeworks. 
 
 ## Instructions 
 Before downloading the source files, make sure you have your environment setup:
