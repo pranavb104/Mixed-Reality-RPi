@@ -1,7 +1,7 @@
 
 ## About
 
-![mrpi](./mrp2.jpg)
+![mrpi](./mrp2.png)
 
 A Mixed-Reality device using the small yet powerful RPI Zero 2W。It detect fiducials (aruco-markers) via the RPI dedicated camera and plays 720p resolution videos when detected. All of this running simulataneously on the PI Zero2W.This device gives a unique way to interact with static content as opposed to viewing it from screens which can be bulky and expensive to setup. This experience could also make way for interactive games and other kind of explorative projects.
 
