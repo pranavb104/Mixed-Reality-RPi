@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCP23008-E_SO")(type "KiCad")(uri "${KIPRJMOD}/footprints/MCP23008-E_SO/MCP23008-E_SO.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP73871-2CCI_ML")(type "KiCad")(uri "${KIPRJMOD}/footprints/MCP73871-2CCI_ML/MCP73871-2CCI_ML.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61030PWP")(type "KiCad")(uri "${KIPRJMOD}/footprints/TPS61030PWP/TPS61030PWP.kicad_sym")(options "")(descr ""))
+)

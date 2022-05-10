@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "TPS61030PWP")(type "KiCad")(uri "${KIPRJMOD}/footprints/TPS61030PWP/TPS61030PWP.pretty")(options "")(descr ""))
+  (lib (name "MCP73871-2CCI_ML")(type "KiCad")(uri "${KIPRJMOD}/footprints/MCP73871-2CCI_ML/MCP73871-2CCI_ML.pretty")(options "")(descr ""))
+  (lib (name "SOIC127P1030X265-18N")(type "KiCad")(uri "${KIPRJMOD}/footprints/MCP23008-E_SO/SOIC127P1030X265-18N.pretty")(options "")(descr ""))
+)
