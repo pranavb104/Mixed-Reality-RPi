@@ -32,7 +32,6 @@ And then Add PROJECT_LDFLAGS += -latomic to file: config.make for your project t
 ![pcb](./pcb-image.png)
 
 This PCB builds upon the work done by [mickmakes](https://github.com/MickMake/Project-PiProjector). It uses a simple charging circuit, along with outputs to detect the battery health and other charging paramters. I've also uploaded the BOM for sourcing the components. However some components like the MCP23008, TPS61030PWP & MCP73871 are not mentioned, since due to chip shortage these need to be sourced from other local Chinese vendors on [Taobao](http://taobao.com). Otherwise they are easily available on Mouser or Digikey. 
-I will mention detailed steps for assembling and starting the device as soon as things get better here in Shanghai :D
 
 
 
